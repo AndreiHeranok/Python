@@ -1,1 +1,1 @@
-# Python
+Python [HomeWork_1](https://github.com/AndreiHeranok/Python/blob/main/HW_1.py)
